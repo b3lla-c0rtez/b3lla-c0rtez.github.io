@@ -28,6 +28,12 @@
   top:  8;
 }
 
+.home {
+  position: fixed;
+  right:  515;
+  top: 8;
+}
+
 h2 {
   margin-left:  40;
   margin-top:  65px;
