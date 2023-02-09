@@ -1,40 +1,59 @@
-.websites {
-  position:  fixed;
-  right: 315;
-  top:  8;
+#home {
+	position: fixed;
+	right: 80%;
+	top: 8px;
+}
+#about {
+	position: fixed;
+	right: 65%;
+	top: 8px;
 }
 
-.projects {
-  position:  fixed;
-  right: 215;
-  top:  8;
+#websites {
+	position: fixed;
+	right: 50%;
+	top: 8px;
 }
 
-.linked {
-  position:  fixed;
-  right:  115;
-  top: 8;
+#projects {
+	position: fixed;
+	right: 35%;
+	top: 8px;
 }
 
-.contact {
-  position: fixed;
-  right:  15;
-  top: 8;
+#linked {
+	position: fixed;
+	right: 20%;
+	top: 8px;
 }
 
-.about {
-  position:  fixed;
-  right:  415;
-  top:  8;
+#contact {
+	position: fixed;
+	right: 5%;
+	top: 8px;
 }
 
-.home {
-  position: fixed;
-  right:  515;
-  top: 8;
+button {
+	background-color: #adcde3; 
+	border-width: 0; 
+	color: black; 
+	height: 40px;
+	width: 100px;
+}
+
+button:hover {
+	background-color: #d3d3d3; 
+	border-width: 0; 
+	color: black; 
+	height: 40px;
+	width: 100px;
+}
+
+body {
+	background-color: #adcde3;
 }
 
 h2 {
-  margin-left:  40;
+  margin-left:  40px;
   margin-top:  65px;
 }
