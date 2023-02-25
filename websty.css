@@ -56,5 +56,10 @@ body {
 h2 {
   margin-left:  40px;
   margin-top:  65px;
+  float: left;
 }
 
+img {
+	float: right;
+	margin-top:  65px;
+}
