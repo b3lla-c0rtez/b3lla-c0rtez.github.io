@@ -33,6 +33,10 @@
 	top: 8px;
 }
 
+head {
+	background: #adcde3;
+}
+
 button {
 	background-color: #adcde3; 
 	border-width: 0; 
@@ -50,16 +54,27 @@ button:hover {
 }
 
 body {
-	background-color: #adcde3;
-}
-
-h2 {
-  margin-left:  40px;
-  margin-top:  65px;
-  float: left;
+	background-image: linear-gradient(#adcde3, #e697ee);
 }
 
 img {
 	float: right;
 	margin-top:  65px;
 }
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.text {
+  padding-right: 20px;
+  float: right;
+}
+
+h2 {
+	font-size: 45px;
+}
+
+
