@@ -63,6 +63,7 @@ button:hover {
 	color: black; 
 	height: 40px;
 	width: 100px;
+	font-family: "Open Sans", sans-serif;
 }
 
 body {
