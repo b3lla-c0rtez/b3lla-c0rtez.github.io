@@ -73,6 +73,10 @@ body {
 img {
 	float: right;
 	margin-top:  65px;
+	margin-bottom: 55px;
+	width: 490px;
+	height: auto;
+	margin-right: 15px;
 }
 
 .container {
