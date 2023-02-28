@@ -124,3 +124,29 @@ footer {
 .opensans {
   font-family: "Open Sans", sans-serif;
 }
+
+@media (max-width: 320px) {
+	button {
+	background-color: #f6cdff; 
+	border-width: 0; 
+	color: black; 
+	height: 40px;
+	width: 100px;
+	font-family: "Open Sans", sans-serif;
+	max-width: 100%;
+	}
+
+button:hover {
+	background-color: #a6a6a6; 
+	border-width: 0; 
+	color: black; 
+	height: 40px;
+	width: 100px;
+	font-family: "Open Sans", sans-serif;
+	max-width: 100%;
+}
+
+img {
+	max-width: 100%;
+}
+}
