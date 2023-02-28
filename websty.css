@@ -86,11 +86,13 @@ img {
 }
 
 h2 {
+	margin-left: 25px;
 	font-size: 40px;
 	font-family: "Open Sans", sans-serif;
 }
 
 p {
+	margin-left: 45px;
 	font-size: 15px;
 	font-family: "Open Sans", sans-serif;
 }
