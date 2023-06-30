@@ -1,36 +1,42 @@
 #home {
 	position: absolute;
-	right: 80%;
+	right: 93%;
 	top: 8px;
 }
 
 #about {
 	position: absolute;
-	right: 65%;
+	right: 78%;
+	top: 8px;
+}
+
+#games {
+	position: absolute;
+	right: 63%;
 	top: 8px;
 }
 
 #websites {
 	position: absolute;
-	right: 50%;
+	right: 48%;
 	top: 8px;
 }
 
 #projects {
 	position: absolute;
-	right: 35%;
+	right: 33%;
 	top: 8px;
 }
 
 #linked {
 	position: absolute;
-	right: 20%;
+	right: 18%;
 	top: 8px;
 }
 
 #contact {
 	position: absolute;
-	right: 5%;
+	right: 3%;
 	top: 8px;
 }
 
@@ -52,8 +58,8 @@ button {
 	background-color: #f6cdff; 
 	border-width: 0; 
 	color: black; 
-	height: 40px;
-	width: 100px;
+	height: auto;
+	width: auto;
 	font-family: "Open Sans", sans-serif;
 }
 
@@ -61,8 +67,8 @@ button:hover {
 	background-color: #a6a6a6; 
 	border-width: 0; 
 	color: black; 
-	height: 40px;
-	width: 100px;
+	height: auto;
+	width: auto;
 	font-family: "Open Sans", sans-serif;
 }
 
@@ -74,7 +80,7 @@ img {
 	float: right;
 	margin-top:  65px;
 	margin-bottom: 55px;
-	width: 490px;
+	width: auto;
 	height: auto;
 	margin-right: 15px;
 }
@@ -90,6 +96,7 @@ img {
   float: right;
 }
 
+
 h2 {
 	margin-left: 25px;
 	font-size: 40px;
@@ -101,6 +108,7 @@ p {
 	font-size: 15px;
 	font-family: "Open Sans", sans-serif;
 }
+
 
 footer {
 	background: #f6cdff;
@@ -127,26 +135,126 @@ footer {
 
 @media (max-width: 320px) {
 	button {
-	background-color: #f6cdff; 
-	border-width: 0; 
-	color: black; 
-	height: 40px;
-	width: 100px;
-	font-family: "Open Sans", sans-serif;
-	max-width: 100%;
+		background-color: #f6cdff; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
 	}
 
-button:hover {
-	background-color: #a6a6a6; 
-	border-width: 0; 
-	color: black; 
-	height: 40px;
-	width: 100px;
-	font-family: "Open Sans", sans-serif;
-	max-width: 100%;
+	button:hover {
+		background-color: #a6a6a6; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	img {
+		float: right;
+		margin-top:  65px;
+		margin-bottom: 55px;
+		width: auto;
+		height: auto;
+		margin-right: 15px;
+		max-width: 100%;
+		max-height: 100%;
+	}
+	
 }
 
-img {
-	max-width: 100%;
+@media (max-width: 480px) {
+	button {
+		background-color: #f6cdff; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	button:hover {
+		background-color: #a6a6a6; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	img {
+		float: right;
+		margin-top:  65px;
+		margin-bottom: 55px;
+		width: auto;
+		height: auto;
+		margin-right: 15px;
+		max-width: 100%;
+		max-height: 100%;
+	}
+	
 }
+
+@media (max-width: 481px) {
+	button {
+		background-color: #f6cdff; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	button:hover {
+		background-color: #a6a6a6; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	img {
+		float: right;
+		margin-top:  65px;
+		margin-bottom: 55px;
+		width: auto;
+		height: auto;
+		margin-right: 15px;
+		max-width: 100%;
+		max-height: 100%;
+	}
+	
+}
+
+@media (max-width: 768px) {
+	button {
+		background-color: #f6cdff; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	button:hover {
+		background-color: #a6a6a6; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	img {
+		float: right;
+		margin-top:  65px;
+		margin-bottom: 55px;
+		width: auto;
+		height: auto;
+		margin-right: 15px;
+	}
+	
 }
