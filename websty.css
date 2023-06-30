@@ -58,8 +58,8 @@ button {
 	background-color: #f6cdff; 
 	border-width: 0; 
 	color: black; 
-	height: auto;
-	width: auto;
+	height: 40px;
+	width: 100px;
 	font-family: "Open Sans", sans-serif;
 }
 
@@ -67,8 +67,8 @@ button:hover {
 	background-color: #a6a6a6; 
 	border-width: 0; 
 	color: black; 
-	height: auto;
-	width: auto;
+	height: 40px;
+	width: 100px;
 	font-family: "Open Sans", sans-serif;
 }
 
