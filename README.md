@@ -28,5 +28,5 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
   -Customer Service (both in person and phone support), communication, and teamwork
 
 ### Projects
--[ToyBox Hackathon Project](https://b3lla-gam3s.itch.io/logic-gate-simulator)
--[CS 422 Nebula Net](https://www.nebulanet.net/)
+  -[ToyBox Hackathon Project](https://b3lla-gam3s.itch.io/logic-gate-simulator)
+  -[CS 422 Nebula Net](https://www.nebulanet.net/)
