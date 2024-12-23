@@ -31,6 +31,6 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
   - [ToyBox Hackathon Project](https://b3lla-gam3s.itch.io/logic-gate-simulator)
   - [CS 422 Nebula Net](https://www.nebulanet.net/)
 
-##### [Resume](assets/img/Isabella_Cortez_Resume.pdf)
+#### [Resume](assets/img/Isabella_Cortez_Resume.pdf)
 
-<a href = "https://github.com/b3lla-c0rtez"><img src = "assets/img/github.jpg" alt = "Isabella's GitHub">
+<a href = "https://github.com/b3lla-c0rtez"><img src = "assets/img/github.jpg" alt = "Isabella's GitHub" width = "50" height = "50">
