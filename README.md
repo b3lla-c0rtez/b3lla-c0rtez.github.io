@@ -33,4 +33,4 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
 
 #### [Resume](assets/img/Isabella_Cortez_Resume.pdf)
 
-<a href = "https://github.com/b3lla-c0rtez"><img src = "assets/img/github.jpg" alt = "Isabella's GitHub" width = "50" height = "50">
+<a href = "https://github.com/b3lla-c0rtez"><img src = "assets/img/github.jpg" alt = "Isabella's GitHub" width = "25" height = "25">
