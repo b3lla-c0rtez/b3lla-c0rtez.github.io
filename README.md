@@ -1,6 +1,6 @@
 # Computer Scientist
 
-###### Technical Skills: SQL, Unity, C#, JavaScript, Java, C, Python, HTML, CSS, C++, GPU Programming, CUDA, Lua
+##### Technical Skills: SQL, Unity, C#, JavaScript, Java, C, Python, HTML, CSS, C++, GPU Programming, CUDA, Lua
 
 ### Education
 Computer Science, BS | University of Oregon (2024)
@@ -28,5 +28,5 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
   -Customer Service (both in person and phone support), communication, and teamwork
 
 ### Projects
--[
+-[ToyBox Hackathon Project](https://b3lla-gam3s.itch.io/logic-gate-simulator)
 -[CS 422 Nebula Net](https://www.nebulanet.net/)
