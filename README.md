@@ -1,4 +1,4 @@
-# Computer Scientist
+# Computer Science Portfolio
 
 ##### Technical Skills: SQL, Unity, C#, JavaScript, Java, C, Python, HTML, CSS, C++, GPU Programming, CUDA, Lua
 
