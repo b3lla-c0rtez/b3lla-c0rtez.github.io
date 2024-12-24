@@ -34,3 +34,4 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
 #### [Resume](assets/img/Isabella_Cortez_Resume.pdf)
 
 <a href = "https://www.linkedin.com/in/isabella-cortez-3499531a3/"> <img src = "assets/img/LinkedIn_Logo.png" alt = "LinkedIn Profile" width = "35" height = "35"> 
+[assets/img/email_icon.png](mailto:icortez0306@gmail.com)
