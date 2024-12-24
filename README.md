@@ -28,10 +28,13 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
   - Customer Service (both in person and phone support), communication, and teamwork
 
 ### Projects
-  - [ToyBox Hackathon Project](https://b3lla-gam3s.itch.io/logic-gate-simulator)
-  - [CS 422 Nebula Net](https://www.nebulanet.net/)
+  - [Logic Gate Simulator Hackathon Project](https://b3lla-gam3s.itch.io/logic-gate-simulator)
+  - [CS 422 Nebula Net - Final Project](https://www.nebulanet.net/)
+  - [Databases (CS 451) Final Project](https://github.com/b3lla-c0rtez/Bella-s-Projects/tree/main/CS%20Classes%20at%20UO/CS%20451/Final%20Project)
+  - [GPU Programming Projects](https://github.com/b3lla-c0rtez/Bella-s-Projects/tree/main/CS%20Classes%20at%20UO/CS%20399)
+  - [CS 410 Final Project](https://github.com/CriticalSquirrel93/Final_Project_CS_410)
 
 #### [Resume](assets/img/Isabella_Cortez_Resume.pdf)
 
 <a href = "https://www.linkedin.com/in/isabella-cortez-3499531a3/"> <img src = "assets/img/LinkedIn_Logo.png" alt = "LinkedIn Profile" width = "35" height = "35"> 
-[assets/img/email_icon.png](mailto:icortez0306@gmail.com)
+<a href = "mailto:icortez0306@gmail.com"> <img src = "assets/img/email_icon.png" alt = "Email" width = "35" height = "35">
