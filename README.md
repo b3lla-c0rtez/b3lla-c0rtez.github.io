@@ -9,12 +9,12 @@ Computer Science, BS | University of Oregon (2024)
 Code Sensei @ Code Ninjas
   - Teach kids, ages 6-13 years how to code using Block Programming, JavaScript, Lua (Roblox) and Unity (C#)
   - Create and develop curriculum for students
-  -Working with a 3d printer creating image renderings to produce 3d models
+  - Working with a 3d printer creating image renderings to produce 3d models
 
 Computer Science Learning Assistant @ University of Oregon CS, DS and Math Department
   - Assist college students with Python and JavaScript coding projects
   - Answer questions related to the class or Computer Science program in general
-  - Working in tandem with the professor as well as students to assist in the completion of projects and assignments
+  - Worked in tandem with the professor as well as students to assist in the completion of projects and assignments
 
 Computer Science Tutor @ University of Oregon Tutor and Academic Engagement Center
   - Assisted University of Oregon students with JavaScript and HTML coding projects
