@@ -14,7 +14,7 @@ Code Sensei @ Code Ninjas
 Computer Science Learning Assistant @ University of Oregon CS, DS and Math Department
   - Assist college students with Python and JavaScript coding projects
   - Answer questions related to the class or Computer Science program in general
-  - Working with in tandem with the professor as well as students to assist in the completion of projects and assignments
+  - Working in tandem with the professor as well as students to assist in the completion of projects and assignments
 
 Computer Science Tutor @ University of Oregon Tutor and Academic Engagement Center
   - Assisted University of Oregon students with JavaScript and HTML coding projects
