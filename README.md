@@ -1,4 +1,4 @@
-# Computer Science Portfolio
+# Technical Portfolio for Computer Science & Immersive Media Communication
 
 ##### Technical Skills: SQL, Unity, C#, JavaScript, Java, C, Python, HTML, CSS, C++, GPU Programming, CUDA, Lua
 
