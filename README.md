@@ -42,7 +42,7 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
   - [D&D Website](https://theoutcastguild.wixsite.com/theoutcastguild)
   - [Chaos Crew Website](https://b3lla-gam3s.github.io/chaoscrew/)
 
-### Immersive Projects
+### Immersive Media Projects
   - [Maya - Vehicle Assignment](https://github.com/b3lla-c0rtez/JCOM-669/tree/main/Vehicle%20Assignment)
   
 #### [Resume](assets/img/Isabella_Cortez_Resume.pdf)
