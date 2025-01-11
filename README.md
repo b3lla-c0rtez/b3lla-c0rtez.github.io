@@ -13,7 +13,7 @@ Code Sensei @ Code Ninjas
 
 Student Website Developer @ University of Oregon Clinical Services Department
   - Assist in Website Design using Drupal (to improve this website: https://signetwork.org/) according to professor's needs
-  - Output information to CSV using Views Data Export framework on Drupal, add the year 2025 to the calendar, create announcements page, create an evaluators page,     fix the events calendar, fix the resource library, and edit the states map
+  - Output information to CSV using Views Data Export framework on Drupal, add the year 2025 to the calendar, create announcements page, create an evaluators page, fix the events calendar, fix the resource library, and edit the states map
   - Provide documentation for the changes I make
   - Make any changes I see fit to make the UI/UX better
 
