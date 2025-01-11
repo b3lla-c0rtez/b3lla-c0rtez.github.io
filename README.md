@@ -37,7 +37,7 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
   - [Chaos Crew Website](https://b3lla-gam3s.github.io/chaoscrew/)
 
 ### Immersive Projects
-  -[Maya - Vehicle Assignment](https://github.com/b3lla-c0rtez/JCOM-669/tree/main/Vehicle%20Assignment)
+  - [Maya - Vehicle Assignment](https://github.com/b3lla-c0rtez/JCOM-669/tree/main/Vehicle%20Assignment)
   
 #### [Resume](assets/img/Isabella_Cortez_Resume.pdf)
 
