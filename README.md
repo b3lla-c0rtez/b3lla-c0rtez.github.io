@@ -39,6 +39,7 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
   - [Databases (CS 451) Final Project](https://github.com/b3lla-c0rtez/Bella-s-Projects/tree/main/CS%20Classes%20at%20UO/CS%20451/Final%20Project)
   - [GPU Programming Projects](https://github.com/b3lla-c0rtez/Bella-s-Projects/tree/main/CS%20Classes%20at%20UO/CS%20399)
   - [CS 410 Final Project](https://github.com/CriticalSquirrel93/Final_Project_CS_410)
+  - [User Interface Design](https://github.com/b3lla-c0rtez/Bella-s-Projects/tree/main/CS%20Classes%20at%20UO/CS%20443)
   - [D&D Website](https://theoutcastguild.wixsite.com/theoutcastguild)
   - [Chaos Crew Website](https://b3lla-gam3s.github.io/chaoscrew/)
 
