@@ -12,10 +12,8 @@ Code Sensei @ Code Ninjas
   - Working with a 3d printer creating image renderings to produce 3D models
 
 Student Website Developer @ University of Oregon Clinical Services Department
-  - Assist in Website Design using Drupal (to improve this website: https://signetwork.org/) according to professor's needs
-  - Output information to CSV using Views Data Export framework on Drupal, add the year 2025 to the calendar, create announcements page, create an evaluators page, fix the events calendar, fix the resource library, and edit the states map
-  - Provide documentation for the changes I make
-  - Make any changes I see fit to make the UI/UX better
+  - Assist Faculty Research Associate with Website Design using Drupal (for this website: https://signetwork.org/)
+  - Implement updates, improvements, and documentation adhering to specific needs
 
 Computer Science Learning Assistant @ University of Oregon CS, DS and Math Department
   - Assist college students with Python and JavaScript coding projects
