@@ -45,6 +45,9 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
   - [Maya - Vehicle Assignment](https://github.com/b3lla-c0rtez/JCOM-669/tree/main/Vehicle%20Assignment)
   - [Maya - Spacecraft Assignment](https://github.com/b3lla-c0rtez/JCOM-669/tree/main/Spacecraft%20Assignment)
   - [Maya - Table & Chairs Assignment](https://github.com/b3lla-c0rtez/JCOM-669/tree/main/Table%20%26%20Chairs%20Assignment)
+  - [Dumpster Asset](https://github.com/b3lla-c0rtez/JCOM-669/tree/main/Dumpster%20Asset)
+  - [Arcade VR Executable Scene](https://github.com/b3lla-c0rtez/Arcade-VR-Scene)
+  - [Environment_Asset_FinalProject](https://drive.google.com/file/d/1To3GTN-FK3Mn9kOuuk6uRqrPu-dgq74j/view?usp=sharing)
   
 #### [Resume](assets/img/Isabella_Cortez_Resume.pdf)
 
