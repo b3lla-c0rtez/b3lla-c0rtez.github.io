@@ -49,6 +49,8 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
   - [Arcade VR Executable Scene](https://github.com/b3lla-c0rtez/Arcade-VR-Scene)
   - [Environment_Asset_FinalProject](https://drive.google.com/file/d/1SSc1i0gh69MVk9LzUWXaGLeCVGv7byCn/view?usp=sharing)
   - [Immersive Content Deliverable (AI Seminar)](https://github.com/b3lla-c0rtez/Immersive-Content-Deliverable-AI-Seminar-)
+  - [Tree Stump Photogrammetry Asset](https://skfb.ly/px7Nv)
+  - [Plant Photogrammetry Asset](https://skfb.ly/px7Nw)
 
   
 #### [Resume](assets/img/Isabella_Cortez_Resume.pdf)
