@@ -51,6 +51,7 @@ Information Technology Service Desk @ University of Oregon, IT Services Departme
   - [Immersive Content Deliverable (AI Seminar)](https://github.com/b3lla-c0rtez/Immersive-Content-Deliverable-AI-Seminar-)
   - [Tree Stump Photogrammetry Asset](https://skfb.ly/px7Nv)
   - [Plant Photogrammetry Asset](https://skfb.ly/px7Nw)
+  - [User Experience Design](https://github.com/b3lla-c0rtez/User-Experience-Design)
 
   
 #### [Resume](assets/img/Isabella_Cortez_Resume.pdf)
